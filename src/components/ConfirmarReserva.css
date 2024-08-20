@@ -1,0 +1,28 @@
+.comfirm {
+    background-color: #e0f7fa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px auto;
+    max-width: 600px;
+    color: #006064;
+}
+
+.comfirm h2 {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.comfirm span {
+    color: #008cba;
+    font-weight: bold;
+}
+
+.comfirm p {
+    font-size: 18px;
+    color: #004d40;
+    margin-top: 15px;
+}

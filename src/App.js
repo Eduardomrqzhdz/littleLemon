@@ -1,12 +1,24 @@
+import React from 'react';
 import './App.css';
-import Header from './components/Header';
+import Nav from './components/Nav';
+import Main from './components/Main';
+import Menu from './components/Menu';
+import Testimonios from './components/Testimonios';
+import Footer from './components/Footer';
+import AcercaDe from './components/AcercaDe';
+
+
+
 
 function App() {
   return (
     <>
-      
-      <Header/>
-
+      <Nav />
+      <Main />
+      <Menu />
+      <Testimonios />
+      <AcercaDe />
+      <Footer />
     </>
   );
 }
